@@ -75,4 +75,4 @@ Please create an app with the following requirments:
 
 6. Which of your apps in the App Store are you most proud of? Why?
 
-8. Please describe yourself using JSON.
+7. Please describe yourself using JSON.
