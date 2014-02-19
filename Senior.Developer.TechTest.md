@@ -43,7 +43,7 @@ Host: api.just-eat.com
 
 ### What you need to do
 
-Please create an app with the following requirments: 
+Please create an app with the following requirements: 
 
 1. Its locates the current postcode that the user is geographically situated in 
 
