@@ -1,12 +1,10 @@
 # Senior Developer (iOS) - Technical Test
 
-Thank you for taking the time to do our technical test. Please don’t feel you need to spend more than 90 minutes on it in total. The test consists of two parts:
+Thank you for taking the time to do our technical test. The test consists of two parts:
 
+* A coding test
 
-* A coding test - please don’t feel you need to spend more than an hour on this part
-
-* A few technical questions - please don’t spend more than half an hour on this part
-
+* A few technical questions
 
 In order to avoid bounced emails we would like you to submit your results by uploading the relevant **zip** file to a shared Google Drive folder. 
 
@@ -14,9 +12,9 @@ In order to supply you with the URL for this folder please send an email to tech
 
 Please make this a single zip file named {yourname}-{role-you-apply-for}.zip containing a single markdown file with the answers to the technical questions and one folder containing the technical test.
 
-## Coding - 60 minutes
+## Coding
 
-**You should feel free to spend about 60 minutes on this section. Please take the time to write code and any tests to the standard you would expect in a real application.**
+**We expect coding standards to be inline with that of a real application but we understand that everyone does not have the same artistic flair when it comes to design and UX. Please feel free to work on this until you feel it reaches a standard that best showcases your ability but we understand if some areas have room for improvment**
 
 JUST EAT has a public API available (details below) that you can use to get restaurant information, including which restaurants deliver to what areas. We want you to use this to build an app to show these restaurants.
 
@@ -63,9 +61,7 @@ Please create an app with the following requirements:
 
 6. Must compile and run directly from xcode in one step
 
-## Questions - 30 minutes
-
-######You should feel free to spend about 30 minutes on this section.
+## Questions
 
 1. Did you have time to complete the coding test? What would you add to your solution if you had more time?
 
