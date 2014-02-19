@@ -59,6 +59,10 @@ Please create an app with the following requirments:
 
 4. The restaurants should be ordered from highest average rating to lowest average rating 
 
+5. Must use ARC
+
+6. Must compile and run directly from xcode in one step
+
 ## Questions - 30 minutes
 
 ######You should feel free to spend about 30 minutes on this section.
