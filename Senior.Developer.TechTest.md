@@ -32,7 +32,7 @@ Authorization: Basic  VGVjaFRlc3RBUEk6dXNlcjI=
 
 User-Agent: The API requires that you send a User-Agent header as part of the request. If you have problems connecting then please check that you’re including a User-Agent.
 
-Host: api.just-eat.com
+Host: api-interview.just-eat.com
 
 ##### GetRestaurants
 
