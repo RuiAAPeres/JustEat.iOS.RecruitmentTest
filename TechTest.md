@@ -1,4 +1,4 @@
-# Senior Developer (iOS) - Technical Test
+# iOS - Technical Test
 
 Thank you for taking the time to do our technical test. The test consists of two parts:
 
