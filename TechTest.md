@@ -53,7 +53,7 @@ Please create an app with the following requirements:
 
 	2. Average rating
 
-	3. Restaurant logo - URL format to get the image: http://je-cdn-production.s3-eu-west-1.amazonaws.com/uk/images/restaurants/{restaurant_id}.gif 
+	3. Restaurant logo
 
 4. The restaurants should be ordered from highest average rating to lowest average rating 
 
