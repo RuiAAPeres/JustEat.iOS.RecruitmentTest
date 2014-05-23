@@ -6,7 +6,7 @@ Welcome !
 
 Just a quick note before you start the test. If you have reached this test without first contacting tech.recruitment@just-eat.com and reviewing the jobs posted at http://tech.just-eat.com/jobs#iOS please do so first. 
 
-The first step in the JUST EAT interview process is a CV review and a phone interview with our technical representative to make sure that role is what you are looking for and to answer any questions you may have about it. We do this because its a fantastic way to explain the culture at JUST EAT which is equally important to us as writing code.
+The first step in the JUST EAT interview process is a CV review and a phone interview with our technical representative to make sure that the role is what you are looking for and to answer any questions you may have about it. We do this because its a fantastic way to explain the culture at JUST EAT which is equally important to us as writing code.
 
 ### The Test
 
