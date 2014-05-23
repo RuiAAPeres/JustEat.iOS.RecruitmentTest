@@ -1,5 +1,15 @@
 # iOS - Technical Test
 
+### Before you start
+
+Welcome ! 
+
+Just a quick note before you start the test. If you have reached this test without first contacting tech.recruitment@just-eat.com and reviewing the jobs posted at http://tech.just-eat.com/jobs#iOS please do so before you start. 
+
+The first step in the JUST EAT interview process is a chat with our technical representative to make sure that role is suited to you and to answer any questions you may have about it. 
+
+### The Test
+
 Thank you for taking the time to do our technical test. The test consists of two parts:
 
 * A coding test
