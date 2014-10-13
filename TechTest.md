@@ -24,7 +24,7 @@ Please make this a single zip file named {yourname}-{role-you-apply-for}.zip con
 
 ## Coding
 
-**We expect coding standards to be inline with that of a real application but we understand that everyone does not have the same artistic flair when it comes to design and UX. Please feel free to work on this until you feel it reaches a standard that best showcases your ability but we understand if some areas have room for improvment**
+**We expect coding standards to be inline with that of a real application but we understand that everyone does not have the same artistic flair when it comes to design and UX. Please feel free to work on this until you feel it reaches a standard that best showcases your ability, but we understand if some areas have room for improvement.**
 
 JUST EAT has a public API available (details below) that you can use to get restaurant information, including which restaurants deliver to what areas. We want you to use this to build an app to show these restaurants.
 
